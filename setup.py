@@ -9,7 +9,8 @@ setup(
  url='http://pypi.python.org/pypi/quick_eda/',
  license='LICENSE.txt',
  description='Important dataframe statistics with a single command',
- long_description=open('README.txt').read(),
+ long_description_content_type='text/markdown',
+ long_description=open('README.md').read(),
  install_requires=[
      "pandas",
    ],
