@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: quick-eda
+Version: 0.1.3
+Summary: Important dataframe statistics with a single command
+Home-page: http://pypi.python.org/pypi/quick-eda/
+Author: Sven Eschlbeck
+Author-email: sven.eschlbeck@t-online.de
+License: LICENSE.txt
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
 # **quick-eda**
 Receiving dataframe statistics with one command
 
@@ -76,3 +88,5 @@ column_eda(pets, "age")
 
 The source code is maintained at https://github.com/sveneschlbeck/quick-eda  
 There are also further information concerning the BSD license model, contributing guidelines and more...
+
+
