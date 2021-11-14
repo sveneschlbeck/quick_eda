@@ -1,1 +1,1 @@
-quick-eda
+quick_eda

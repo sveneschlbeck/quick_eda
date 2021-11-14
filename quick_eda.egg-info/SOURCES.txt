@@ -1,9 +1,9 @@
 LICENSE.txt
 README.md
 setup.py
-quick-eda/__init__.py
-quick-eda/column_eda.py
-quick-eda/df_eda.py
+quick_eda/__init__.py
+quick_eda/column_eda.py
+quick_eda/df_eda.py
 quick_eda.egg-info/PKG-INFO
 quick_eda.egg-info/SOURCES.txt
 quick_eda.egg-info/dependency_links.txt
