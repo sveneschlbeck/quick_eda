@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
  name='quick_eda',
- version='0.1.6',
+ version='0.1.7',
  author='Sven Eschlbeck',
  author_email='sven.eschlbeck@t-online.de',
  packages=['quick_eda'],

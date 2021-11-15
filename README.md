@@ -6,7 +6,6 @@ Receiving dataframe statistics with one command
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/quick_eda)
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/quick_eda)
 ![PyPI](https://img.shields.io/pypi/v/quick-eda)
-![PyPI - Status](https://img.shields.io/pypi/status/quick-eda)
 *****
 
 ## Project description
@@ -71,6 +70,32 @@ You could then run statistics on both the entire dataframe or e.g. the column ``
 df_eda(pets)
 column_eda(pets, "age")
 ```
+
+The returned information resulting from those commands contain the following meta data:
+
+- ``df_eda()``:
+	- First 5 rows of dataframe
+	- Last 5 rows of dataframe
+	- Names of the existing columns
+	- Data types of the existing columns
+	- Numbers of columns with same data type
+	- Memory usage of each column
+	- Shape of the dataframe (rows/columns)
+	- Number of occuring duplicates in the dataframe
+	- Number of occuring NULL/NA values per column
+	- Number of occuring unique values per column
+	- Standard statistics for each column
+	- Correlations between columns
+
+- ``column_eda()``:
+	- First 5 entries of column
+	- Last 5 entries of column
+	- Memory usage of the column
+	- Shape of the column
+	- Number of occuring duplicates in the column
+	- Number of occuring NULL/NA values in column
+	- Number of occuring unique values in column
+	- Standard statistics for column
 
 ## Source code & further information
 
