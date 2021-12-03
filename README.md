@@ -1,11 +1,10 @@
-# **quick_eda**
-Receiving dataframe statistics with one command
-
 *****
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sveneschlbeck/quick_eda)
 ![GitHub top language](https://img.shields.io/github/languages/top/sveneschlbeck/quick_eda)
 ![GitHub](https://img.shields.io/github/license/sveneschlbeck/quick_eda)
-![PyPI](https://img.shields.io/pypi/v/quick-eda)
+![PyPI](https://img.shields.io/pypi/v/quick_eda)
+![Wheel](https://img.shields.io/pypi/wheel/quick_eda)
+![Language](https://img.shields.io/pypi/implementation/quick_eda)
 *****
 
 ## Project description
