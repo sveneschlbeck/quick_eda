@@ -9,7 +9,7 @@
 
 [![quick_eda logo](logo.png)](https://pypi.org/project/quick_eda/)
 
-## Project description
+## Project Description
 
 A python package for Data Scientists, Students, ML Engineers and anyone who wants dataframe meta data without the trouble
 of having to type in numerous commands.
@@ -25,7 +25,7 @@ pip install quick-eda
 
 This package is licensed under ``BSD Clause 3``.
 
-## Example usage
+## Example Usage
 
 Users of the package can import the individual modules from this package, for example:
 ```python
@@ -98,7 +98,7 @@ The returned information resulting from those commands contain the following met
 	- Number of occuring unique values in column
 	- Standard statistics for column
 
-## Source code & further information
+## Source Code & Further Information
 
 The source code is maintained at https://github.com/sveneschlbeck/quick_eda  
 There are also further information concerning the BSD license model, contributing guidelines and more...
