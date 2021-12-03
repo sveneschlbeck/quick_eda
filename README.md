@@ -7,6 +7,8 @@
 ![Language](https://img.shields.io/pypi/implementation/quick_eda)
 *****
 
+[![quick_eda logo](logo.png)](https://pypi.org/project/quick_eda/)
+
 ## Project description
 
 A python package for Data Scientists, Students, ML Engineers and anyone who wants dataframe meta data without the trouble
